@@ -10,6 +10,7 @@ S:\Balta.io\ModelandoDominiosRicos\PaymentContext\PaymentContext.Tests\bin\Debug
 S:\Balta.io\ModelandoDominiosRicos\PaymentContext\PaymentContext.Tests\bin\Debug\net6.0\PaymentContext.Tests.runtimeconfig.json
 S:\Balta.io\ModelandoDominiosRicos\PaymentContext\PaymentContext.Tests\bin\Debug\net6.0\PaymentContext.Tests.dll
 S:\Balta.io\ModelandoDominiosRicos\PaymentContext\PaymentContext.Tests\bin\Debug\net6.0\PaymentContext.Tests.pdb
+S:\Balta.io\ModelandoDominiosRicos\PaymentContext\PaymentContext.Tests\bin\Debug\net6.0\Flunt.dll
 S:\Balta.io\ModelandoDominiosRicos\PaymentContext\PaymentContext.Tests\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
 S:\Balta.io\ModelandoDominiosRicos\PaymentContext\PaymentContext.Tests\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
 S:\Balta.io\ModelandoDominiosRicos\PaymentContext\PaymentContext.Tests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll

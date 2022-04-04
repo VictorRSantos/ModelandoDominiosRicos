@@ -1,5 +1,7 @@
+using Flunt.Notifications;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using PaymentContext.Domain.Entities;
+using PaymentContext.Domain.ValueObjects;
 
 namespace PaymentContext.Tests.Entities
 {
@@ -11,9 +13,8 @@ namespace PaymentContext.Tests.Entities
         public void AdicionaAssinatura()
         {
 
-            var subscription = new Subscription(null);
-            // var student = new Student("André", "Baltieri", "1231545646465", "hello@balta.io");
-            // student.AddSubscription(subscription);
+
+            
 
 
 
