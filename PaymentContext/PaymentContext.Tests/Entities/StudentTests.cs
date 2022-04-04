@@ -12,8 +12,8 @@ namespace PaymentContext.Tests.Entities
         {
 
             var subscription = new Subscription(null);
-            var student = new Student("André", "Baltieri", "1231545646465", "hello@balta.io");
-            student.AddSubscription(subscription);
+            // var student = new Student("André", "Baltieri", "1231545646465", "hello@balta.io");
+            // student.AddSubscription(subscription);
 
 
 
